@@ -1,0 +1,3 @@
+Paper rock scissors game implementations.\
+For now only for java.\
+Purpose: Educational and for trying out different languages/styles of coding etc...
